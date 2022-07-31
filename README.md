@@ -1,4 +1,4 @@
 # nextjs-starter
 
-Server side rending on ssr-toolkit branch
-Server side rending on ssr-develop branch (depreciated)
+1. Server side rending on ssr-toolkit branch.
+2. Server side rending on ssr-develop branch (depreciated)
